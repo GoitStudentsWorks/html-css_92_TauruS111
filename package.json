@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/nice-group6/",
+    "build": "vite build --base=/html-css_92_TauruS111/",
     "preview": "vite preview"
   },
   "devDependencies": {
